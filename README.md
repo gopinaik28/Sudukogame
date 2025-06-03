@@ -14,7 +14,7 @@ Python 3.x
 
 **Installation**
 1)Clone the repository:
-  1)git clone https://github.com/Sai-Nihal-Pampara/Sudoku-Game.git
+  1)git clone (https://github.com/gopinaik28/Sudukogame)
   2)cd Sudoku-Game
 2)Run the solver:
   1)python sudoku.py
